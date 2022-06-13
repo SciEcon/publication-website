@@ -1,0 +1,240 @@
+# SciEcon Research 
+
+!!! quote
+    In light of eastern and western philosophy
+    The renaissance of Plato’s Republic and Confucius Analects
+
+**Current Executive Co-Chairs**: Yinhong (William) Zhao, Ziliang (Lewis) Tian
+
+**Inaugural Program Co-Chairs**: Yinhong (William) Zhao, Ziliang (Lewis) Tian
+
+**Inaugural Program Chair**: Prof. Luyao Zhang
+
+SciEcon Research is an accelerator program for young scholars to conduct exploratory research and identify important open questions for cutting-edge interdisciplinary research of both profound insights and practical impacts. 
+
+Event Series (To be launched): `Tutorials` and `Workshops` for Research Resources.
+
+# Our Publication
+
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Financial service and investment in the NFT market Place
+
+**Internal Link**: [Financial service and investment in the NFT market Place](/articles/Research/FinancialserviceandinvestmentintheNFTmarketPlace)
+
+**Medium Link**: <https://medium.com/sciecon-research/financial-service-and-investment-in-the-nft-market-place-e6f312d5113>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Explore the sea of NFT
+
+**Internal Link**: [Explore the sea of NFT](/articles/Research/ExploretheseaofNFT)
+
+**Medium Link**: <https://medium.com/sciecon-research/explore-the-sea-of-nft-f74eab9259de>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: A Glance into the Metaverse
+
+**Internal Link**: [A Glance into the Metaverse](/articles/Research/AGlanceintotheMetaverse)
+
+**Medium Link**: <https://medium.com/sciecon-research/a-glance-into-the-metaverse-80004e9e1d1>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: NFT Marketplace: Introduction to NFT and NFT marketplace’s mechanism
+
+**Internal Link**: [NFT Marketplace: Introduction to NFT and NFT marketplace’s mechanism](/articles/Research/NFTMarketplace:IntroductiontoNFTandNFTmarketplace’smechanism)
+
+**Medium Link**: <https://medium.com/sciecon-research/nft-marketplace-introduction-to-nft-and-nft-marketplaces-mechanism-9e45169841f9>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Does DeFi Application Function Well in Terms of the Features of Immutability, Transparency, and Accessibility?
+
+**Internal Link**: [Does DeFi Application Function Well in Terms of the Features of Immutability, Transparency, and Accessibility?](/articles/Research/DoesDeFiApplicationFunctionWellinTermsoftheFeaturesofImmutabilityTransparencyandAccessibility)
+
+**Medium Link**: <https://medium.com/sciecon-research/does-defi-application-function-well-in-terms-of-the-features-of-immutability-transparency-and-6c42fe58556f>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: NFT Marketplace: How to Choose the Right NFT Marketplace for Artists and Collectors
+
+**Internal Link**: [NFT Marketplace: How to Choose the Right NFT Marketplace for Artists and Collectors](/articles/Research/NFTMarketplace:HowtoChoosetheRightNFTMarketplaceforArtistsandCollectors)
+
+**Medium Link**: <https://medium.com/sciecon-research/nft-marketplace-how-to-choose-the-right-nft-marketplace-for-artists-and-collectors-5d4cc7cb1918>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Will Ethereum last long?
+
+**Internal Link**: [Will Ethereum last long?](/articles/Research/WillEthereumlastlong)
+
+**Medium Link**: <https://medium.com/sciecon-research/will-ethereum-last-long-7fea1743c119>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: The Application of Blockchain Technology: Environmental Sustainability, Government Management, and Ethical Considerations
+
+**Internal Link**: [The Application of Blockchain Technology: Environmental Sustainability, Government Management, and Ethical Considerations](/articles/Research/TheApplicationofBlockchainTechnology:EnvironmentalSustainabilityGovernmentManagementandEthicalConsiderations)
+
+**Medium Link**: <https://medium.com/sciecon-research/the-application-of-blockchain-technology-environmental-sustainability-government-management-and-85ba8127b408>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Blockchain Governance for a Sustainable Future
+
+**Internal Link**: [Blockchain Governance for a Sustainable Future](/articles/Research/BlockchainGovernanceforaSustainableFuture)
+
+**Medium Link**: <https://medium.com/sciecon-research/blockchain-governance-for-a-sustainable-future-881746a32099>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Tech Solutions for the Crypto Market
+
+**Internal Link**: [Tech Solutions for the Crypto Market](/articles/Research/TechSolutionsfortheCryptoMarket)
+
+**Medium Link**: <https://medium.com/sciecon-research/tech-solutions-for-the-crypto-market-6734f2e54294>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Indicators in the Crypto Market: the valuation of social sentiments
+
+**Internal Link**: [Indicators in the Crypto Market: the valuation of social sentiments](/articles/Research/IndicatorsintheCryptoMarket:thevaluationofsocialsentiments)
+
+**Medium Link**: <https://medium.com/sciecon-research/indicators-in-the-crypto-market-the-valuation-of-social-sentiments-ff06488e5bcf>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Algorithmic Trading in Crypto Market
+
+**Internal Link**: [Algorithmic Trading in Crypto Market](/articles/Research/AlgorithmicTradinginCryptoMarket)
+
+**Medium Link**: <https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Cryptocurrency Exchanges: A Guide to Smart Transactions
+
+**Internal Link**: [Cryptocurrency Exchanges: A Guide to Smart Transactions](/articles/Research/CryptocurrencyExchanges:AGuidetoSmartTransactions)
+
+**Medium Link**: <https://medium.com/sciecon-research/cryptocurrency-exchanges-a-guide-to-smart-transactions-e5beaccd19e7>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 3 The Token Economy]
+
+**Internal Link**: [How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 3 The Token Economy]](/articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part3TheTokenEconomy])
+
+**Medium Link**: <https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-7223c3364e9a>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 2 The Business Model Analysis]
+
+**Internal Link**: [How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 2 The Business Model Analysis]](/articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part2TheBusinessModelAnalysis])
+
+**Medium Link**: <https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-8858220d863a>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]
+
+**Internal Link**: [How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]](/articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part1BusinessBriefings])
+
+**Medium Link**: <https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-d89ca0251096>
+</div>
+</div>
