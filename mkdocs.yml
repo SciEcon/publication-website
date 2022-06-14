@@ -83,7 +83,7 @@ markdown_extensions:
       custom_checkbox: true
   - tables
 
-copyright: Hosted on IPFS
+copyright: Copyright &copy; 2021 - 2022 SciEcon CIC, Hosted on IPFS
 
 extra_css:
   - stylesheets/extra.css
