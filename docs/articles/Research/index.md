@@ -2,12 +2,12 @@
 
 !!! quote
     In light of eastern and western philosophy
-    
+
     The renaissance of Plato’s Republic and Confucius Analects
 
-**Current Executive Co-Chairs**: Yinhong (William) Zhao, Ziliang (Lewis) Tian
+**Current Executive Co-Chairs**: Ziliang (Lewis) Tian, Zichao Chen, and Yufan Zhang
 
-**Inaugural Program Co-Chairs**: Yinhong (William) Zhao, Ziliang (Lewis) Tian
+**Inaugural Program Co-Chairs**: Ziliang (Lewis) Tian
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
