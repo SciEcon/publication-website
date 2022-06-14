@@ -5,7 +5,7 @@ The Future of Cryptocurrency: Insights from Mr. Charles Du
 
 **About Mr. Charles Du:**
 
-![](https://miro.medium.com/max/738/1*VZ2vgAPJo18cLpwP5MqhLw.png)Figure 1: Dr. Charles Du
+![](https://miro.medium.com/max/738/1*VZ2vgAPJo18cLpwP5MqhLw.png)<br />Figure  1: Dr. Charles Du
 
 [Charles Du](https://productcharles.com/) is an MIT Media Lab alumnus and former Communications Director for Accenture’s Enterprise Search and Collaboration global practice. Having worked on multi-million knowledge/portal projects in the US and Europe, he settled in Singapore after an INSEAD MBA and managed the APAC operations network of a Swiss linguistic services company, coordinating hundreds of full- and part-time staff. He co-founded Prolog Systems in Singapore and recently moved to Shanghai.
 
@@ -15,7 +15,7 @@ The company is currently looking to reincorporate in China and raise another rou
 
 Follow Dr. Charles Du on [LinkedIn](https://cn.linkedin.com/in/charles-du-547130/zh-tw?trk=people-guest_people_search-card).
 
-![](https://miro.medium.com/max/1400/1*dpFCRqXbrVW4EsilDgdO7Q.png)Figure 2: Screenshot of Charles Du’s LinkedIn Page
+![](https://miro.medium.com/max/1400/1*dpFCRqXbrVW4EsilDgdO7Q.png)<br />Figure  2: Screenshot of Charles Du’s LinkedIn Page
 
 **What is your motivation for doing research about fintech/blockchain?**
 ========================================================================

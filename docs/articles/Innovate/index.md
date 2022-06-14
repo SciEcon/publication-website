@@ -2,6 +2,7 @@
 
 !!! quote
     In light of eastern and western philosophy
+    
     The renaissance of Plato’s Republic and Confucius Analects
 
 **Current Executive Chair**: Zesen Zhuag
@@ -16,8 +17,9 @@ SciEcon Innovate explores the most cutting-edge technologies and their applicati
 Event Series (To be launched): `tutorials` and `workshops` for innovative technologies, `developer program incubator`, `hackthon incubator`
 
 # Our Publication
+---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*BvldzKcxcvfex7NI" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -31,7 +33,7 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*D44V2RL60eZbvOR3" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -45,7 +47,7 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*lw1pJoPMq42_ji1d" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -59,7 +61,7 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*lKHh1YBuEP8NpEpb" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">

@@ -2,6 +2,7 @@
 
 !!! quote
     In light of eastern and western philosophy
+    
     The renaissance of Plato’s Republic and Confucius Analects
 
 **Current Executive Co-Chairs**: Yinhong (William) Zhao, Ziliang (Lewis) Tian
@@ -15,9 +16,9 @@ SciEcon Research is an accelerator program for young scholars to conduct explora
 Event Series (To be launched): `Tutorials` and `Workshops` for Research Resources.
 
 # Our Publication
-
+---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/1*CRp066zKbomwZ7y4KTPMoA.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -31,7 +32,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*06AVXM_au8YKtqrr" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -45,7 +46,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*0PgFL-N4mR_r2B5i" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -59,7 +60,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*iZSGcFn9Z_-OST5H" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -73,7 +74,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/1*PRmKVHeHOPtFfdsh7TF7zA.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -87,7 +88,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*lQ5FTLxiK40v7Q-S" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -101,7 +102,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/828/0*J42a2L8OdSyLNNf8" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -115,7 +116,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*2gKJuAnw4jOn2Atz" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -129,7 +130,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/1*H7JHoqpswmZ5Mq1jtySp6g.jpeg" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -143,7 +144,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*iUquDZl_be6rVipa" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -157,7 +158,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*yrUEcQINiwB3eo_v.jpg" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -171,7 +172,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/1*PKqjLmsDczLV6hyk2p_t3Q.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -185,7 +186,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*WxzrGIVbfD4RzkJ_" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -199,7 +200,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1228/1*-4qyag3QHjtxciv2Q1MKOQ.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -213,7 +214,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/1*8nDeLl1LrZ5K9lRYgu7VVQ.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -227,7 +228,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/1*lO_wGZaTS_jiSdnznXyrxA.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">

@@ -2,6 +2,7 @@
 
 !!! quote
     In light of eastern and western philosophy
+    
     The renaissance of Plato’s Republic and Confucius Analects
 
 **Current Executive Chair**: Jiasheng (Ray) Zhu
@@ -19,7 +20,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <!-- put thumbnails -->
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/1.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -33,7 +34,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/4.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -47,7 +48,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/3.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -61,7 +62,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/560/1*cls5tuaHHeA7tUvvruzVxA.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -75,7 +76,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/2.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -89,7 +90,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/1*SoFmvt-xHwuMiZEgYDTKvQ.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -103,7 +104,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/7.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -117,7 +118,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/5.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -131,7 +132,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/13.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -145,7 +146,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/8.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -159,7 +160,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/16.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -173,7 +174,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/1*CTZUUp86enb7B2L79jczmg.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -187,7 +188,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/19.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -201,7 +202,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/11.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -215,7 +216,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/12.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -229,7 +230,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/10.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -243,7 +244,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/14.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -257,7 +258,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/990/0*TlMzyVfSJQigVSSJ.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -271,7 +272,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/18.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -285,7 +286,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/17.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -299,7 +300,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="/assets/thumbnails/15.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -313,7 +314,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+<img src="https://miro.medium.com/max/1400/0*56dHyFwFnN_eBMUc" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
