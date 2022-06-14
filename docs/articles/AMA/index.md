@@ -20,7 +20,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <!-- put thumbnails -->
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/1.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/1.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -34,7 +34,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/4.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/4.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -48,7 +48,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/3.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/3.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -62,7 +62,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/20.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/20.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -76,7 +76,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/2.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/2.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -90,7 +90,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/9.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/9.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -104,7 +104,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/7.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/7.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -118,7 +118,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/5.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/5.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -132,7 +132,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/13.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/13.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -146,7 +146,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/8.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/8.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -160,7 +160,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/16.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/16.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -188,7 +188,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/19.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/19.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -202,7 +202,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/11.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/11.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -216,7 +216,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/12.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/12.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -230,7 +230,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/10.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/10.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -244,7 +244,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/14.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/14.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -258,7 +258,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://miro.medium.com/max/990/0*TlMzyVfSJQigVSSJ.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/21.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -272,7 +272,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/18.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/18.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -286,7 +286,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/17.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/17.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -300,7 +300,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="/assets/thumbnails/15.png" width="300" />
+<img src="https://raw.githubusercontent.com/SciEcon/publication-website/master/docs/assets/thumbnails/15.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
