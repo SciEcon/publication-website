@@ -62,7 +62,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://miro.medium.com/max/560/1*cls5tuaHHeA7tUvvruzVxA.png" width="300" />
+<img src="/assets/thumbnails/20.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
@@ -90,7 +90,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ---
 <div style="display: flex;" markdown>
-<img src="https://miro.medium.com/max/1400/1*SoFmvt-xHwuMiZEgYDTKvQ.png" width="300" />
+<img src="/assets/thumbnails/9.png" width="300" />
 <div style="width: 2%">
 </div>
 <div markdown style="width: 70%;">
