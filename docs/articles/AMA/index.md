@@ -5,6 +5,7 @@
     
     The renaissance of Plato’s Republic and Confucius Analects
 
+
 **Current Executive Chair**: Jiasheng (Ray) Zhu
 
 **Inaugural Program Co-Chair**: Jiasheng Zhu (Ray)

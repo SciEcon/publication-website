@@ -1,9 +1,10 @@
 # SciEcon Innovate
 
 !!! quote
-    In light of eastern and western philosophy
-    
-    The renaissance of Plato’s Republic and Confucius Analects
+    In light of eastern and western innovation
+
+    The renaissance of The Four Great Inventions and Industrial Revolution
+
 
 **Current Executive Chair**: Zesen Zhuag
 

@@ -1,9 +1,10 @@
 # SciEcon Research 
 
 !!! quote
-    In light of eastern and western philosophy
+    In light of eastern and western science
 
-    The renaissance of Plato’s Republic and Confucius Analects
+    The renaissance of Aristotle and Mencius
+
 
 **Current Executive Co-Chairs**: Ziliang (Lewis) Tian, Zichao Chen, and Yufan Zhang
 

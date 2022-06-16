@@ -1,8 +1,10 @@
 # SciEcon Insight
 
 !!! quote
-    In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects
+    In light of eastern and western literature
+
+    The renaissance of the four great classic Chinese novels and Shakespeare’s Four Tragedies
+
 
 **Current Executive Chair**: Xinyu Tian
 
@@ -24,10 +26,10 @@ SciEcon Insights aims to spread frontier knowledge and findings, promote convers
 
 ### SciEcon AMA
 
-<!-- !!! quote
+!!! quote
     In light of eastern and western philosophy
-
-    The renaissance of Plato’s Republic and Confucius Analects -->
+    
+    The renaissance of Plato’s Republic and Confucius Analects
 
 **Program Sites**: <https://insight.sciecon.org/articles/AMA/>
 
@@ -43,9 +45,11 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ### SciEcon Research 
 
-<!-- !!! quote
-    In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects -->
+!!! quote
+    In light of eastern and western science
+
+    The renaissance of Aristotle and Mencius
+
 
 **Program Sites**: <https://insight.sciecon.org/articles/Research/>
 
@@ -61,9 +65,10 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ### SciEcon Innovate
 
-<!-- !!! quote
-    In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects -->
+!!! quote
+    In light of eastern and western innovation
+
+    The renaissance of The Four Great Inventions and Industrial Revolution
 
 **Program Sites**: <https://insight.sciecon.org/articles/Innovate/>
 
