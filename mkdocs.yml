@@ -20,6 +20,7 @@ theme:
 
 
 nav:
+  - Home: index.md
   - AMA: 
     - articles/AMA/index.md
     - "How will DeFi Reshape the Future of Finance?": "articles/AMA/HowwillDeFiReshapetheFutureofFinance.md"
@@ -89,8 +90,8 @@ extra_css:
   - stylesheets/extra.css
 
 
-plugins:
-    - search
-    - redirects:
-        redirect_maps:
-            'index.md': 'articles/AMA/index.md'
+# plugins:
+#     - search
+#     - redirects:
+#         redirect_maps:
+#             'index.md': 'articles/AMA/index.md'
