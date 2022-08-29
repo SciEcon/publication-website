@@ -8,7 +8,7 @@
 
 **Sites**: <https://insight.sciecon.org/articles/Research/>
 
-**Current Executive Co-Chairs**: Zichao Chen
+**Current Executive Chair**: Zichao Chen
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
