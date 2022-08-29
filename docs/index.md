@@ -6,6 +6,8 @@
     The renaissance of the four great classic Chinese novels and Shakespeare’s Four Tragedies
 
 
+**Program Sites**: <https://insight.sciecon.org/>
+
 **Current Executive Chair**: Xinyu Tian
 
 **Inaugural Program Co-Chair**: Xinyu Tian
@@ -15,6 +17,17 @@
 SciEcon Insights aims to spread frontier knowledge and findings, promote conversations between cultures and disciplines, and nurture talented scholars with various platforms and art forms. It includes [SciEcon AMA](https://medium.com/sciecon-ama), [SciEcon Research](https://medium.com/sciecon-research), and [SciEcon Innovate](https://medium.com/sciecon-innovate) which archive excellent articles from SciEcon lab members and records of events. 
 
 ## About SciEcon
+
+!!! note ""
+    A wise person shall not be confined by her work and profession. At SciEcon, we gather together talents for dialogue, scientific research, education, and incubation in an open and inclusive way. We explore the mysteries of the universe, the subtleties of history, the trends of economic development, the advancement of science and technology, the versatility of humanities, and the profoundness of philosophy, for the sake of life, for the people, for the sages of the past, and for the sake of peace.
+                                                                                         
+    <p style="text-align: right">—Prof. Dr. Yulin Liu</p>
+
+SciEcon CIC is an NPO registered in the UK. SciEcon exists to:
+
+- Cultivate an integrated talent of researcher, engineer, entrepreneur, investor, philanthropist, and beyond
+- Nurture leadership through focusing on interdisciplinary research, the interplay between teaching, research, and practice, and conversation between intellectuals
+- Host educational events such as interdisciplinary seminars, symposiums, conferences for a hub of global students, researchers, scholars, practitioners, and beyond
 
 !!! note ""
 
@@ -28,14 +41,13 @@ SciEcon Insights aims to spread frontier knowledge and findings, promote convers
 
 !!! quote
     In light of eastern and western philosophy
-    
+
     The renaissance of Plato’s Republic and Confucius Analects
 
-**Program Sites**: <https://insight.sciecon.org/articles/AMA/>
 
-**Current Executive Chair**: Jiasheng (Ray) Zhu
+**Sites**: <https://insight.sciecon.org/articles/AMA/>
 
-**Inaugural Program Co-Chair**: Jiasheng Zhu (Ray)
+**Current Executive Chair**: Haoyang Yu
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
@@ -51,11 +63,9 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
     The renaissance of Aristotle and Mencius
 
 
-**Program Sites**: <https://insight.sciecon.org/articles/Research/>
+**Sites**: <https://insight.sciecon.org/articles/Research/>
 
-**Current Executive Co-Chairs**: Ziliang (Lewis) Tian, Zichao Chen, and Yufan Zhang
-
-**Inaugural Program Co-Chairs**: Ziliang (Lewis) Tian
+**Current Executive Co-Chairs**: Zichao Chen
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
@@ -67,19 +77,16 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 !!! quote
     In light of eastern and western innovation
-
+    
     The renaissance of The Four Great Inventions and Industrial Revolution
 
-**Program Sites**: <https://insight.sciecon.org/articles/Innovate/>
 
-**Current Executive Chair**: Zesen Zhuang, Zichao Chen, and Yufan Zhang
+**Sites**: <https://insight.sciecon.org/articles/Innovate/>
 
-**Inaugural Program Co-Chair**: Zesen Zhuang
+**Current Executive Chair**: Yufan Zhang
 
 **Inaugural Program Chairs**: Prof. Yulin Liu and Prof. Luyao Zhang
 
 SciEcon Innovate explores the most cutting-edge technologies and their applications in both industry and academia, with a focus on finding the most efficient pipeline for converting academic results. SciEcon Innovation will equip members with capabilities in both academia and industry to become cross-border technical talents.
 
-
 Event Series (To be launched): `tutorials` and `workshops` for innovative technologies, `developer program incubator`, `hackthon incubator`
-

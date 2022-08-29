@@ -6,9 +6,9 @@
     The renaissance of Aristotle and Mencius
 
 
-**Current Executive Co-Chairs**: Ziliang (Lewis) Tian, Zichao Chen, and Yufan Zhang
+**Sites**: <https://insight.sciecon.org/articles/Research/>
 
-**Inaugural Program Co-Chairs**: Ziliang (Lewis) Tian
+**Current Executive Co-Chairs**: Zichao Chen
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 

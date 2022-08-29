@@ -2,18 +2,17 @@
 
 !!! quote
     In light of eastern and western innovation
-
+    
     The renaissance of The Four Great Inventions and Industrial Revolution
 
 
-**Current Executive Chair**: Zesen Zhuag
+**Sites**: <https://insight.sciecon.org/articles/Innovate/>
 
-**Inaugural Program Co-Chair**: Zesen Zhuang
+**Current Executive Chair**: Yufan Zhang
 
 **Inaugural Program Chairs**: Prof. Yulin Liu and Prof. Luyao Zhang
 
 SciEcon Innovate explores the most cutting-edge technologies and their applications in both industry and academia, with a focus on finding the most efficient pipeline for converting academic results. SciEcon Innovation will equip members with capabilities in both academia and industry to become cross-border technical talents.
-
 
 Event Series (To be launched): `tutorials` and `workshops` for innovative technologies, `developer program incubator`, `hackthon incubator`
 

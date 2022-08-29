@@ -2,13 +2,13 @@
 
 !!! quote
     In light of eastern and western philosophy
-    
+
     The renaissance of Plato’s Republic and Confucius Analects
 
 
-**Current Executive Chair**: Jiasheng (Ray) Zhu
+**Sites**: <https://insight.sciecon.org/articles/AMA/>
 
-**Inaugural Program Co-Chair**: Jiasheng Zhu (Ray)
+**Current Executive Chair**: Haoyang Yu
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
