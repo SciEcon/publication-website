@@ -37,7 +37,7 @@ SciEcon CIC is an NPO registered in the UK. SciEcon exists to:
 
 ## Publication
 
-### SciEcon AMA
+### SciEcon Insights: AMA Track
 
 !!! quote
     In light of eastern and western philosophy
@@ -49,13 +49,13 @@ SciEcon CIC is an NPO registered in the UK. SciEcon exists to:
 
 **Current Executive Chair**: Haoyang Yu
 
-**Inaugural Program Chair**: Prof. Luyao Zhang
+**Inaugural Chair**: Prof. Luyao Zhang
 
 SciEcon AMA is a series of intellectual conversations among pioneering scholars, innovators, and global leaders. We together are contributing to the great purpose of building a vibrant community of diversity and inclusion that advances human civilization
 
 Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`, `Big Talks`, `Roundtables`, `Debate`, etc. 
 
-### SciEcon Research 
+### SciEcon Insights: Research Track
 
 !!! quote
     In light of eastern and western science
@@ -67,13 +67,13 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 **Current Executive Co-Chairs**: Zichao Chen
 
-**Inaugural Program Chair**: Prof. Luyao Zhang
+**Inaugural Chair**: Prof. Luyao Zhang
 
 SciEcon Research is an accelerator program for young scholars to conduct exploratory research and identify important open questions for cutting-edge interdisciplinary research of both profound insights and practical impacts. 
 
 Event Series (To be launched): `Tutorials` and `Workshops` for Research Resources.
 
-### SciEcon Innovate
+### SciEcon Insights: Innovate Track
 
 !!! quote
     In light of eastern and western innovation
@@ -85,7 +85,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 **Current Executive Chair**: Yufan Zhang
 
-**Inaugural Program Chairs**: Prof. Yulin Liu and Prof. Luyao Zhang
+**Inaugural Chairs**: Prof. Yulin Liu and Prof. Luyao Zhang
 
 SciEcon Innovate explores the most cutting-edge technologies and their applications in both industry and academia, with a focus on finding the most efficient pipeline for converting academic results. SciEcon Innovation will equip members with capabilities in both academia and industry to become cross-border technical talents.
 

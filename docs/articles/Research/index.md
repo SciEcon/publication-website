@@ -1,4 +1,4 @@
-# SciEcon Research 
+# SciEcon Insights: Research Track
 
 !!! quote
     In light of eastern and western science
@@ -10,7 +10,7 @@
 
 **Current Executive Chair**: Zichao Chen
 
-**Inaugural Program Chair**: Prof. Luyao Zhang
+**Inaugural Chair**: Prof. Luyao Zhang
 
 SciEcon Research is an accelerator program for young scholars to conduct exploratory research and identify important open questions for cutting-edge interdisciplinary research of both profound insights and practical impacts. 
 

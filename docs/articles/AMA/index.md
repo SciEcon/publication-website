@@ -1,4 +1,4 @@
-# SciEcon AMA
+# SciEcon Insights: AMA Track
 
 !!! quote
     In light of eastern and western philosophy
@@ -10,7 +10,7 @@
 
 **Current Executive Chair**: Haoyang Yu
 
-**Inaugural Program Chair**: Prof. Luyao Zhang
+**Inaugural Chair**: Prof. Luyao Zhang
 
 SciEcon AMA is a series of intellectual conversations among pioneering scholars, innovators, and global leaders. We together are contributing to the great purpose of building a vibrant community of diversity and inclusion that advances human civilization
 

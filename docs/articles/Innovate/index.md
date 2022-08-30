@@ -1,4 +1,4 @@
-# SciEcon Innovate
+# SciEcon Insights: Innovate Track
 
 !!! quote
     In light of eastern and western innovation
@@ -10,7 +10,7 @@
 
 **Current Executive Chair**: Yufan Zhang
 
-**Inaugural Program Chairs**: Prof. Yulin Liu and Prof. Luyao Zhang
+**Inaugural Chairs**: Prof. Yulin Liu and Prof. Luyao Zhang
 
 SciEcon Innovate explores the most cutting-edge technologies and their applications in both industry and academia, with a focus on finding the most efficient pipeline for converting academic results. SciEcon Innovation will equip members with capabilities in both academia and industry to become cross-border technical talents.
 
