@@ -1,4 +1,4 @@
-# SciEcon Insights: Innovate Track
+# SciEcon Insights: Innovate
 
 !!! quote
     In light of eastern and western innovation

@@ -1,4 +1,4 @@
-# SciEcon Insights: Research Track
+# SciEcon Insights: Research
 
 !!! quote
     In light of eastern and western science

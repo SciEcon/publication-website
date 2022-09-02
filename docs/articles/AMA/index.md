@@ -1,4 +1,4 @@
-# SciEcon Insights: AMA Track
+# SciEcon Insights: AMA
 
 !!! quote
     In light of eastern and western philosophy
