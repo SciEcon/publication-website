@@ -10,6 +10,8 @@
 
 **Current Executive Chair**: Yufan Zhang
 
+**Inaugural Co-Chair**: Zesen Zhuang
+
 **Inaugural Chairs**: Prof. Yulin Liu and Prof. Luyao Zhang
 
 SciEcon Innovate explores the most cutting-edge technologies and their applications in both industry and academia, with a focus on finding the most efficient pipeline for converting academic results. SciEcon Innovation will equip members with capabilities in both academia and industry to become cross-border technical talents.

@@ -49,6 +49,8 @@ SciEcon CIC is an NPO registered in the UK. SciEcon exists to:
 
 **Current Executive Chair**: Haoyang Yu
 
+**Inaugural Co-Chair**: Jiasheng (Ray) Zhu
+
 **Inaugural Chair**: Prof. Luyao Zhang
 
 SciEcon AMA is a series of intellectual conversations among pioneering scholars, innovators, and global leaders. We together are contributing to the great purpose of building a vibrant community of diversity and inclusion that advances human civilization
@@ -67,6 +69,8 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 **Current Executive Co-Chairs**: Zichao Chen
 
+**Inaugural Co-Chair**: Ziliang Tian
+
 **Inaugural Chair**: Prof. Luyao Zhang
 
 SciEcon Research is an accelerator program for young scholars to conduct exploratory research and identify important open questions for cutting-edge interdisciplinary research of both profound insights and practical impacts. 
@@ -84,6 +88,8 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 **Sites**: <https://insight.sciecon.org/articles/Innovate/>
 
 **Current Executive Chair**: Yufan Zhang
+
+**Inaugural Co-Chair**: Zesen Zhuang
 
 **Inaugural Chairs**: Prof. Yulin Liu and Prof. Luyao Zhang
 

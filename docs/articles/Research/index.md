@@ -10,6 +10,8 @@
 
 **Current Executive Chair**: Zichao Chen
 
+**Inaugural Co-Chair**: Zesen Zhuang
+
 **Inaugural Chair**: Prof. Luyao Zhang
 
 SciEcon Research is an accelerator program for young scholars to conduct exploratory research and identify important open questions for cutting-edge interdisciplinary research of both profound insights and practical impacts. 
