@@ -46,6 +46,8 @@ nav:
     - "Prof. Yu Xiong Calls for the Internet Computer to Integrate the Spirit of Magna Carta": "articles/AMA/Prof.YuXiongCallsfortheInternetComputertoIntegratetheSpiritofMagnaCarta.md"
     - "On Ethereum: Yin and Yang": "articles/AMA/OnEthereum:YinandYang.md"
   - Research:
+    - "A Blockchain-based Decentralized Cloud Storage with“Keeper-and-Distributor” Systems": "articles/Research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems.md"
+    - "Supply Chain Finance Risk Identification and the Corrective Role of the Blockchain": "articles/Research/supply-chain-finance-risk-identification-and-the-corrective-role-of-the-blockchain.md"
     - articles/Research/index.md
     - "Financial service and investment in the NFT market Place": "articles/Research/FinancialserviceandinvestmentintheNFTmarketPlace.md"
     - "Explore the sea of NFT": "articles/Research/ExploretheseaofNFT.md"
@@ -64,12 +66,13 @@ nav:
     - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 2 The Business Model Analysis]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part2TheBusinessModelAnalysis].md"
     - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part1BusinessBriefings].md"
   - Innovate:
+    - "How blockchain empowers market design: rules and data": "articles/Innovate/how-blockchain-empowers-market-design-rules-and-data.md"
+    - "Smart Contract security and vulnerability detection": "articles/Innovate/smart-contract-security-and-vulnerability-detection.md"
     - articles/Innovate/index.md
     - "Decipher Developer Grants": "articles/Innovate/DecipherDeveloperGrants.md"
     - "Query Bitcoin Order book from CoinMetrics API": "articles/Innovate/QueryBitcoinOrderbookfromCoinMetricsAPI.md"
     - "DeFi Token Initial Coin Offering": "articles/Innovate/DeFiTokenInitialCoinOffering.md"
     - "Recap of ETHconomics @ Devconnect 2022": "articles/Innovate/RecapofETHconomics@Devconnect2022.md"
-
 markdown_extensions:
   - admonition
   - attr_list

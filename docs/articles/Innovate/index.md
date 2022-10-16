@@ -21,6 +21,35 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 # Our Publication
 ---
 <div style="display: flex;" markdown>
+<img src="https://miro.medium.com/max/1400/0*jbzzeqeRLwyNOFiF" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: How blockchain empowers market design: rules and data
+
+**Internal Link**: [How blockchain empowers market design: rules and data](/articles/Innovate/how-blockchain-empowers-market-design-rules-and-data)
+
+**Medium Link**: <https://medium.com/sciecon-innovate/how-blockchain-empowers-market-design-rules-and-data-74612246063e>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://miro.medium.com/max/1400/0*gpCoLtIkQfSa1FVM" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Smart Contract security and vulnerability detection: A fundamental framework for retrieving and execution
+
+**Internal Link**: [Smart Contract security and vulnerability detection](/articles/Innovate/smart-contract-security-and-vulnerability-detection)
+
+**Medium Link**: <https://medium.com/sciecon-innovate/smart-contract-security-and-vulnerability-detection-405545d5e6e8>
+</div>
+</div>
+
+
+---
+<div style="display: flex;" markdown>
 <img src="https://miro.medium.com/max/1400/0*BvldzKcxcvfex7NI" width="300" />
 <div style="width: 2%">
 </div>

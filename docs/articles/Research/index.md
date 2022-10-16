@@ -21,6 +21,35 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 # Our Publication
 ---
 <div style="display: flex;" markdown>
+<img src="https://miro.medium.com/max/1400/1*AKs6qAb8zNrVAzMq9m6aOQ.png" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: A Blockchain-based Decentralized Cloud Storage with“Keeper-and-Distributor” Systems: How a Decentralized Cloud Storage System Can Solve Today’s Cybersecurity Problems.
+
+**Internal Link**: [A Blockchain-based Decentralized Cloud Storage with“Keeper-and-Distributor” Systems](/articles/Research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems)
+
+**Medium Link**: <https://medium.com/sciecon-research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems-6d0b27632ec2>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img src="https://miro.medium.com/max/1400/0*7jITdhsGqPk1BC9y" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Supply Chain Finance Risk Identification and the Corrective Role of the Blockchain
+
+**Internal Link**: [Supply Chain Finance Risk Identification and the Corrective Role of the Blockchain](/articles/Research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems)
+
+**Medium Link**: <https://medium.com/sciecon-research/supply-chain-finance-risk-identification-and-the-corrective-role-of-the-blockchain-52e563e1a78b>
+</div>
+</div>
+
+
+---
+<div style="display: flex;" markdown>
 <img src="https://miro.medium.com/max/1400/1*CRp066zKbomwZ7y4KTPMoA.png" width="300" />
 <div style="width: 2%">
 </div>
