@@ -29,7 +29,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: How will DeFi Reshape the Future of Finance?
 
-**Internal Link**: [How will DeFi Reshape the Future of Finance?](/articles/AMA/HowwillDeFiReshapetheFutureofFinance)
+**Internal Link**: [How will DeFi Reshape the Future of Finance?](/docs/articles/AMA/HowwillDeFiReshapetheFutureofFinance.md)
 
 **Medium Link**: <https://medium.com/sciecon-ama/how-will-defi-reshape-the-future-of-finance-a5febf668487>
 </div>

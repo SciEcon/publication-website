@@ -1,6 +1,6 @@
 site_name: SciEcon Insight
 site_description: "research, innovation, and leadership in light of eastern and western philosophy the renaissance of Greek Academy and Confucius Schools"
-repo_url: "https://github.com/SciEcon/publication-website/"
+# repo_url: "https://github.com/SciEcon/publication-website/"
 
 theme:
   palette: 
