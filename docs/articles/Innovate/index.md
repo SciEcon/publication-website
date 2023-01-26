@@ -27,7 +27,7 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 <div markdown style="width: 70%;">
 **Title**: How blockchain empowers market design: rules and data
 
-**Internal Link**: [How blockchain empowers market design: rules and data](/articles/Innovate/how-blockchain-empowers-market-design-rules-and-data)
+**Internal Link**: [How blockchain empowers market design: rules and data](/articles/Innovate/how-blockchain-empowers-market-design-rules-and-data.html)
 
 **Medium Link**: <https://medium.com/sciecon-innovate/how-blockchain-empowers-market-design-rules-and-data-74612246063e>
 </div>
@@ -41,7 +41,7 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 <div markdown style="width: 70%;">
 **Title**: Smart Contract security and vulnerability detection: A fundamental framework for retrieving and execution
 
-**Internal Link**: [Smart Contract security and vulnerability detection](/articles/Innovate/smart-contract-security-and-vulnerability-detection)
+**Internal Link**: [Smart Contract security and vulnerability detection](/articles/Innovate/smart-contract-security-and-vulnerability-detection.html)
 
 **Medium Link**: <https://medium.com/sciecon-innovate/smart-contract-security-and-vulnerability-detection-405545d5e6e8>
 </div>
@@ -56,7 +56,7 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 <div markdown style="width: 70%;">
 **Title**: Decipher Developer Grants
 
-**Internal Link**: [Decipher Developer Grants](/articles/Innovate/DecipherDeveloperGrants)
+**Internal Link**: [Decipher Developer Grants](/articles/Innovate/DecipherDeveloperGrants.html)
 
 **Medium Link**: <https://medium.com/sciecon-innovate/decipher-developer-grants-95f6c7283d13>
 </div>
@@ -70,7 +70,7 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 <div markdown style="width: 70%;">
 **Title**: Query Bitcoin Order book from CoinMetrics API
 
-**Internal Link**: [Query Bitcoin Order book from CoinMetrics API](/articles/Innovate/QueryBitcoinOrderbookfromCoinMetricsAPI)
+**Internal Link**: [Query Bitcoin Order book from CoinMetrics API](/articles/Innovate/QueryBitcoinOrderbookfromCoinMetricsAPI.html)
 
 **Medium Link**: <https://medium.com/sciecon-innovate/query-bitcoin-order-book-from-coinmetrics-api-ea3425afdacf>
 </div>
@@ -84,7 +84,7 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 <div markdown style="width: 70%;">
 **Title**: DeFi Token Initial Coin Offering
 
-**Internal Link**: [DeFi Token Initial Coin Offering](/articles/Innovate/DeFiTokenInitialCoinOffering)
+**Internal Link**: [DeFi Token Initial Coin Offering](/articles/Innovate/DeFiTokenInitialCoinOffering.html)
 
 **Medium Link**: <https://medium.com/sciecon-innovate/defi-token-initial-coin-offering-c2b0da37c6f8>
 </div>
@@ -98,7 +98,7 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 <div markdown style="width: 70%;">
 **Title**: Recap of ETHconomics @ Devconnect 2022
 
-**Internal Link**: [Recap of ETHconomics @ Devconnect 2022](/articles/Innovate/RecapofETHconomics@Devconnect2022)
+**Internal Link**: [Recap of ETHconomics @ Devconnect 2022](/articles/Innovate/RecapofETHconomics@Devconnect2022.html)
 
 **Medium Link**: <https://medium.com/sciecon-innovate/recap-of-ethconomics-devconnect-2022-fb22bba084b>
 </div>

@@ -27,7 +27,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: A Blockchain-based Decentralized Cloud Storage with“Keeper-and-Distributor” Systems: How a Decentralized Cloud Storage System Can Solve Today’s Cybersecurity Problems.
 
-**Internal Link**: [A Blockchain-based Decentralized Cloud Storage with“Keeper-and-Distributor” Systems](/articles/Research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems)
+**Internal Link**: [A Blockchain-based Decentralized Cloud Storage with“Keeper-and-Distributor” Systems](/articles/Research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems-6d0b27632ec2>
 </div>
@@ -41,7 +41,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: Supply Chain Finance Risk Identification and the Corrective Role of the Blockchain
 
-**Internal Link**: [Supply Chain Finance Risk Identification and the Corrective Role of the Blockchain](/articles/Research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems)
+**Internal Link**: [Supply Chain Finance Risk Identification and the Corrective Role of the Blockchain](/articles/Research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/supply-chain-finance-risk-identification-and-the-corrective-role-of-the-blockchain-52e563e1a78b>
 </div>
@@ -56,7 +56,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: Financial service and investment in the NFT market Place
 
-**Internal Link**: [Financial service and investment in the NFT market Place](/articles/Research/FinancialserviceandinvestmentintheNFTmarketPlace)
+**Internal Link**: [Financial service and investment in the NFT market Place](/articles/Research/FinancialserviceandinvestmentintheNFTmarketPlace.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/financial-service-and-investment-in-the-nft-market-place-e6f312d5113>
 </div>
@@ -70,7 +70,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: Explore the sea of NFT
 
-**Internal Link**: [Explore the sea of NFT](/articles/Research/ExploretheseaofNFT)
+**Internal Link**: [Explore the sea of NFT](/articles/Research/ExploretheseaofNFT.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/explore-the-sea-of-nft-f74eab9259de>
 </div>
@@ -84,7 +84,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: A Glance into the Metaverse
 
-**Internal Link**: [A Glance into the Metaverse](/articles/Research/AGlanceintotheMetaverse)
+**Internal Link**: [A Glance into the Metaverse](/articles/Research/AGlanceintotheMetaverse.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/a-glance-into-the-metaverse-80004e9e1d1>
 </div>
@@ -98,7 +98,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: NFT Marketplace: Introduction to NFT and NFT marketplace’s mechanism
 
-**Internal Link**: [NFT Marketplace: Introduction to NFT and NFT marketplace’s mechanism](/articles/Research/NFTMarketplace:IntroductiontoNFTandNFTmarketplace’smechanism)
+**Internal Link**: [NFT Marketplace: Introduction to NFT and NFT marketplace’s mechanism](/articles/Research/NFTMarketplace:IntroductiontoNFTandNFTmarketplace’smechanism.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/nft-marketplace-introduction-to-nft-and-nft-marketplaces-mechanism-9e45169841f9>
 </div>
@@ -112,7 +112,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: Does DeFi Application Function Well in Terms of the Features of Immutability, Transparency, and Accessibility?
 
-**Internal Link**: [Does DeFi Application Function Well in Terms of the Features of Immutability, Transparency, and Accessibility?](/articles/Research/DoesDeFiApplicationFunctionWellinTermsoftheFeaturesofImmutabilityTransparencyandAccessibility)
+**Internal Link**: [Does DeFi Application Function Well in Terms of the Features of Immutability, Transparency, and Accessibility?](/articles/Research/DoesDeFiApplicationFunctionWellinTermsoftheFeaturesofImmutabilityTransparencyandAccessibility.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/does-defi-application-function-well-in-terms-of-the-features-of-immutability-transparency-and-6c42fe58556f>
 </div>
@@ -126,7 +126,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: NFT Marketplace: How to Choose the Right NFT Marketplace for Artists and Collectors
 
-**Internal Link**: [NFT Marketplace: How to Choose the Right NFT Marketplace for Artists and Collectors](/articles/Research/NFTMarketplace:HowtoChoosetheRightNFTMarketplaceforArtistsandCollectors)
+**Internal Link**: [NFT Marketplace: How to Choose the Right NFT Marketplace for Artists and Collectors](/articles/Research/NFTMarketplace:HowtoChoosetheRightNFTMarketplaceforArtistsandCollectors.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/nft-marketplace-how-to-choose-the-right-nft-marketplace-for-artists-and-collectors-5d4cc7cb1918>
 </div>
@@ -140,7 +140,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: Will Ethereum last long?
 
-**Internal Link**: [Will Ethereum last long?](/articles/Research/WillEthereumlastlong)
+**Internal Link**: [Will Ethereum last long?](/articles/Research/WillEthereumlastlong.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/will-ethereum-last-long-7fea1743c119>
 </div>
@@ -154,7 +154,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: The Application of Blockchain Technology: Environmental Sustainability, Government Management, and Ethical Considerations
 
-**Internal Link**: [The Application of Blockchain Technology: Environmental Sustainability, Government Management, and Ethical Considerations](/articles/Research/TheApplicationofBlockchainTechnology:EnvironmentalSustainabilityGovernmentManagementandEthicalConsiderations)
+**Internal Link**: [The Application of Blockchain Technology: Environmental Sustainability, Government Management, and Ethical Considerations](/articles/Research/TheApplicationofBlockchainTechnology:EnvironmentalSustainabilityGovernmentManagementandEthicalConsiderations.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/the-application-of-blockchain-technology-environmental-sustainability-government-management-and-85ba8127b408>
 </div>
@@ -168,7 +168,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: Blockchain Governance for a Sustainable Future
 
-**Internal Link**: [Blockchain Governance for a Sustainable Future](/articles/Research/BlockchainGovernanceforaSustainableFuture)
+**Internal Link**: [Blockchain Governance for a Sustainable Future](/articles/Research/BlockchainGovernanceforaSustainableFuture.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/blockchain-governance-for-a-sustainable-future-881746a32099>
 </div>
@@ -182,7 +182,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: Tech Solutions for the Crypto Market
 
-**Internal Link**: [Tech Solutions for the Crypto Market](/articles/Research/TechSolutionsfortheCryptoMarket)
+**Internal Link**: [Tech Solutions for the Crypto Market](/articles/Research/TechSolutionsfortheCryptoMarket.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/tech-solutions-for-the-crypto-market-6734f2e54294>
 </div>
@@ -196,7 +196,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: Indicators in the Crypto Market: the valuation of social sentiments
 
-**Internal Link**: [Indicators in the Crypto Market: the valuation of social sentiments](/articles/Research/IndicatorsintheCryptoMarket:thevaluationofsocialsentiments)
+**Internal Link**: [Indicators in the Crypto Market: the valuation of social sentiments](/articles/Research/IndicatorsintheCryptoMarket:thevaluationofsocialsentiments.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/indicators-in-the-crypto-market-the-valuation-of-social-sentiments-ff06488e5bcf>
 </div>
@@ -210,7 +210,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: Algorithmic Trading in Crypto Market
 
-**Internal Link**: [Algorithmic Trading in Crypto Market](/articles/Research/AlgorithmicTradinginCryptoMarket)
+**Internal Link**: [Algorithmic Trading in Crypto Market](/articles/Research/AlgorithmicTradinginCryptoMarket.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2>
 </div>
@@ -224,7 +224,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: Cryptocurrency Exchanges: A Guide to Smart Transactions
 
-**Internal Link**: [Cryptocurrency Exchanges: A Guide to Smart Transactions](/articles/Research/CryptocurrencyExchanges:AGuidetoSmartTransactions)
+**Internal Link**: [Cryptocurrency Exchanges: A Guide to Smart Transactions](/articles/Research/CryptocurrencyExchanges:AGuidetoSmartTransactions.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/cryptocurrency-exchanges-a-guide-to-smart-transactions-e5beaccd19e7>
 </div>
@@ -238,7 +238,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 3 The Token Economy]
 
-**Internal Link**: [How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 3 The Token Economy]](/articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part3TheTokenEconomy])
+**Internal Link**: [How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 3 The Token Economy]](/articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part3TheTokenEconomy].html)
 
 **Medium Link**: <https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-7223c3364e9a>
 </div>
@@ -252,7 +252,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 2 The Business Model Analysis]
 
-**Internal Link**: [How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 2 The Business Model Analysis]](/articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part2TheBusinessModelAnalysis])
+**Internal Link**: [How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 2 The Business Model Analysis]](/articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part2TheBusinessModelAnalysis].html)
 
 **Medium Link**: <https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-8858220d863a>
 </div>
@@ -266,7 +266,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]
 
-**Internal Link**: [How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]](/articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part1BusinessBriefings])
+**Internal Link**: [How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]](/articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part1BusinessBriefings].html)
 
 **Medium Link**: <https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-d89ca0251096>
 </div>

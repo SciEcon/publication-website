@@ -29,7 +29,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: How will DeFi Reshape the Future of Finance?
 
-**Internal Link**: [How will DeFi Reshape the Future of Finance?](/docs/articles/AMA/HowwillDeFiReshapetheFutureofFinance.md)
+**Internal Link**: [How will DeFi Reshape the Future of Finance?](/articles/AMA/HowwillDeFiReshapetheFutureofFinance.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/how-will-defi-reshape-the-future-of-finance-a5febf668487>
 </div>
@@ -43,7 +43,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: Blockchain, Law, and Economics
 
-**Internal Link**: [Blockchain, Law, and Economics](/articles/AMA/BlockchainLawandEconomics)
+**Internal Link**: [Blockchain, Law, and Economics](/articles/AMA/BlockchainLawandEconomics.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/blockchain-law-and-economics-9d4bde730efd>
 </div>
@@ -57,7 +57,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: The Current and Future of Econometrics
 
-**Internal Link**: [The Current and Future of Econometrics](/articles/AMA/TheCurrentandFutureofEconometrics)
+**Internal Link**: [The Current and Future of Econometrics](/articles/AMA/TheCurrentandFutureofEconometrics.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/the-current-and-future-of-econometrics-ed30569e7edd>
 </div>
@@ -71,7 +71,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: Are Central Banks Digital Currencies (CBDCs) The Future of Money?
 
-**Internal Link**: [Are Central Banks Digital Currencies (CBDCs) The Future of Money?](/articles/AMA/AreCentralBanksDigitalCurrenciesCBDCsTheFutureofMoney)
+**Internal Link**: [Are Central Banks Digital Currencies (CBDCs) The Future of Money?](/articles/AMA/AreCentralBanksDigitalCurrenciesCBDCsTheFutureofMoney.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/are-central-banks-digital-currencies-cbdcs-the-future-of-money-aa2feb2593a6>
 </div>
@@ -85,7 +85,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: Development Status and Future Trends of Emerging NFT Market
 
-**Internal Link**: [Development Status and Future Trends of Emerging NFT Market](/articles/AMA/DevelopmentStatusandFutureTrendsofEmergingNFTMarket)
+**Internal Link**: [Development Status and Future Trends of Emerging NFT Market](/articles/AMA/DevelopmentStatusandFutureTrendsofEmergingNFTMarket.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/development-status-and-future-trends-of-emerging-nft-market-a522ebc968ff>
 </div>
@@ -99,7 +99,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: A Glance into Liquity
 
-**Internal Link**: [A Glance into Liquity](/articles/AMA/AGlanceintoLiquity)
+**Internal Link**: [A Glance into Liquity](/articles/AMA/AGlanceintoLiquity.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/a-glance-into-liquity-fdde75f31fd0>
 </div>
@@ -113,7 +113,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: A Conversation on Cryptography, Trust Machine, and Cyber Planet Construction
 
-**Internal Link**: [A Conversation on Cryptography, Trust Machine, and Cyber Planet Construction](/articles/AMA/AConversationonCryptographyTrustMachineandCyberPlanetConstruction)
+**Internal Link**: [A Conversation on Cryptography, Trust Machine, and Cyber Planet Construction](/articles/AMA/AConversationonCryptographyTrustMachineandCyberPlanetConstruction.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/a-conversion-on-cryptography-trust-machine-and-cyber-planet-construction-579f2e0d8bfd>
 </div>
@@ -127,7 +127,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: DeFi: Reinventing Finance and Expanding the Possibilities
 
-**Internal Link**: [DeFi: Reinventing Finance and Expanding the Possibilities](/articles/AMA/DeFi:ReinventingFinanceandExpandingthePossibilities)
+**Internal Link**: [DeFi: Reinventing Finance and Expanding the Possibilities](/articles/AMA/DeFi:ReinventingFinanceandExpandingthePossibilities.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/defi-reinventing-finance-and-expanding-the-possibilities-b08fd17c51f8>
 </div>
@@ -141,7 +141,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: On the Mechanics of Blockchain Security
 
-**Internal Link**: [On the Mechanics of Blockchain Security](/articles/AMA/OntheMechanicsofBlockchainSecurity)
+**Internal Link**: [On the Mechanics of Blockchain Security](/articles/AMA/OntheMechanicsofBlockchainSecurity.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/on-the-mechanics-of-blockchain-security-5375a7ea2c43>
 </div>
@@ -155,7 +155,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: Tokeneconomics: When Macro and Micro Economics Unite in Finance
 
-**Internal Link**: [Tokeneconomics: When Macro and Micro Economics Unite in Finance](/articles/AMA/Tokeneconomics:WhenMacroandMicroEconomicsUniteinFinance)
+**Internal Link**: [Tokeneconomics: When Macro and Micro Economics Unite in Finance](/articles/AMA/Tokeneconomics:WhenMacroandMicroEconomicsUniteinFinance.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/tokeneconomics-when-macro-and-micro-economics-unite-in-finance-97d8096c3ad4>
 </div>
@@ -169,7 +169,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: The Future of Mobility
 
-**Internal Link**: [The Future of Mobility](/articles/AMA/TheFutureofMobility)
+**Internal Link**: [The Future of Mobility](/articles/AMA/TheFutureofMobility.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/the-future-of-mobility-bd27951e01e0>
 </div>
@@ -183,7 +183,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer
 
-**Internal Link**: [Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer](/articles/AMA/DecentralizedFinance:CryptocurrencyandBlockchainontheInternetComputer)
+**Internal Link**: [Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer](/articles/AMA/DecentralizedFinance:CryptocurrencyandBlockchainontheInternetComputer.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/decentralized-finance-cryptocurrency-and-blockchain-on-the-internet-computer-245380a3cd75>
 </div>
@@ -197,7 +197,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: How to Realize Options Trading in Decentralized Finance
 
-**Internal Link**: [How to Realize Options Trading in Decentralized Finance](/articles/AMA/HowtoRealizeOptionsTradinginDecentralizedFinance)
+**Internal Link**: [How to Realize Options Trading in Decentralized Finance](/articles/AMA/HowtoRealizeOptionsTradinginDecentralizedFinance.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/how-to-realize-options-trading-in-decentralized-finance-e942a0bc08ea>
 </div>
@@ -211,7 +211,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: WaterPark: A Decentralized Borrowing Protocol for the Internet Computer
 
-**Internal Link**: [WaterPark: A Decentralized Borrowing Protocol for the Internet Computer](/articles/AMA/WaterPark:ADecentralizedBorrowingProtocolfortheInternetComputer)
+**Internal Link**: [WaterPark: A Decentralized Borrowing Protocol for the Internet Computer](/articles/AMA/WaterPark:ADecentralizedBorrowingProtocolfortheInternetComputer.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/waterpark-a-decentralized-borrowing-protocol-for-the-internet-computer-ce95940f5463>
 </div>
@@ -225,7 +225,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: ICy: A Decentralized Lending Protocol on the Internet Computer
 
-**Internal Link**: [ICy: A Decentralized Lending Protocol on the Internet Computer](/articles/AMA/ICy:ADecentralizedLendingProtocolontheInternetComputer)
+**Internal Link**: [ICy: A Decentralized Lending Protocol on the Internet Computer](/articles/AMA/ICy:ADecentralizedLendingProtocolontheInternetComputer.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/icy-a-decentralized-lending-protocol-on-the-internet-computer-3b4eefb20313>
 </div>
@@ -239,7 +239,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: Towards Decentralized Protocols: Call for Collaborations
 
-**Internal Link**: [Towards Decentralized Protocols: Call for Collaborations](/articles/AMA/TowardsDecentralizedProtocols:CallforCollaborations)
+**Internal Link**: [Towards Decentralized Protocols: Call for Collaborations](/articles/AMA/TowardsDecentralizedProtocols:CallforCollaborations.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/towards-decentralized-protocols-call-for-collaborations-eec84c0ba154>
 </div>
@@ -253,7 +253,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: Insights on consensus in the presence of synchrony
 
-**Internal Link**: [Insights on consensus in the presence of synchrony](/articles/AMA/Insightsonconsensusinthepresenceofsynchrony)
+**Internal Link**: [Insights on consensus in the presence of synchrony](/articles/AMA/Insightsonconsensusinthepresenceofsynchrony.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/how-does-decentralization-support-privacy-preserving-insights-on-consensus-in-the-presence-of-bab673ca2553>
 </div>
@@ -267,7 +267,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: The Future of Consensus: Algorithm on Blockchain
 
-**Internal Link**: [The Future of Consensus: Algorithm on Blockchain](/articles/AMA/TheFutureofConsensus:AlgorithmonBlockchain)
+**Internal Link**: [The Future of Consensus: Algorithm on Blockchain](/articles/AMA/TheFutureofConsensus:AlgorithmonBlockchain.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/prof-olivier-marins-views-on-the-consensus-mechanism-of-blockchain-b6d8eb643d00>
 </div>
@@ -281,7 +281,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: Towards Incentivized Decentralization: The Future of Blockchain
 
-**Internal Link**: [Towards Incentivized Decentralization: The Future of Blockchain](/articles/AMA/TowardsIncentivizedDecentralization:TheFutureofBlockchain)
+**Internal Link**: [Towards Incentivized Decentralization: The Future of Blockchain](/articles/AMA/TowardsIncentivizedDecentralization:TheFutureofBlockchain.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/centralization-and-decentralization-the-future-of-ecosystem-of-cryptocurrency-767c73116a2>
 </div>
@@ -295,7 +295,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: The Future of Cryptocurrency: Insights from Mr. Charles Du
 
-**Internal Link**: [The Future of Cryptocurrency: Insights from Mr. Charles Du](/articles/AMA/TheFutureofCryptocurrency:InsightsfromMr.CharlesDu)
+**Internal Link**: [The Future of Cryptocurrency: Insights from Mr. Charles Du](/articles/AMA/TheFutureofCryptocurrency:InsightsfromMr.CharlesDu.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/the-future-of-cryptocurrency-insights-from-mr-charles-du-4b338d74288f>
 </div>
@@ -309,7 +309,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: Prof. Yu Xiong Calls for the Internet Computer to Integrate the Spirit of Magna Carta
 
-**Internal Link**: [Prof. Yu Xiong Calls for the Internet Computer to Integrate the Spirit of Magna Carta](/articles/AMA/Prof.YuXiongCallsfortheInternetComputertoIntegratetheSpiritofMagnaCarta)
+**Internal Link**: [Prof. Yu Xiong Calls for the Internet Computer to Integrate the Spirit of Magna Carta](/articles/AMA/Prof.YuXiongCallsfortheInternetComputertoIntegratetheSpiritofMagnaCarta.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/prof-yu-xiong-calls-for-the-internet-computer-to-integrate-the-spirit-of-magna-carta-2e8367f6a3d7>
 </div>
@@ -323,7 +323,7 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 <div markdown style="width: 70%;">
 **Title**: On Ethereum: Yin and Yang
 
-**Internal Link**: [On Ethereum: Yin and Yang](/articles/AMA/OnEthereum:YinandYang)
+**Internal Link**: [On Ethereum: Yin and Yang](/articles/AMA/OnEthereum:YinandYang.html)
 
 **Medium Link**: <https://medium.com/sciecon-ama/on-ethereum-yin-and-yang-189b0c2b46f0>
 </div>
