@@ -21,6 +21,20 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 # Our Publication
 ---
 <div style="display: flex;" markdown>
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*osGLRsZNkAPHvTli" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Exploring Centralized and Decentralized Cryptocurrency Exchanges.
+
+**Internal Link**: [Exploring Centralized and Decentralized Cryptocurrency Exchanges](/articles/Research/ExploringCentralizedandDecentralizedCryptocurrencyExchanges.html)
+
+**Medium Link**: <https://medium.com/sciecon-research/exploring-centralized-and-decentralized-cryptocurrency-exchanges-1a411ce8d18a>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
 <img src="https://miro.medium.com/max/1400/1*AKs6qAb8zNrVAzMq9m6aOQ.png" width="300" />
 <div style="width: 2%">
 </div>
