@@ -21,6 +21,20 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 # Our Publication
 ---
 <div style="display: flex;" markdown>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*234YyfpTp2ggCEYPRC3r6w.png" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: MEV: Blockchain’s Silent Assassin
+
+**Internal Link**: [MEV: Blockchain’s Silent Assassin](/articles/Research/MEV:Blockchain’sSilentAssassin.html)
+
+**Medium Link**: <https://medium.com/sciecon-research/mev-blockchains-silent-assassin-3dd015325bf4>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*osGLRsZNkAPHvTli" width="300" />
 <div style="width: 2%">
 </div>
