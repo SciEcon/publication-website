@@ -66,6 +66,7 @@ nav:
     - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 3 The Token Economy]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part3TheTokenEconomy].md"
     - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 2 The Business Model Analysis]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part2TheBusinessModelAnalysis].md"
     - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part1BusinessBriefings].md"
+    - "MEV: Blockchain's Silent Assassin:"
   - Innovate:
     - articles/Innovate/index.md
     - "How blockchain empowers market design: rules and data": "articles/Innovate/how-blockchain-empowers-market-design-rules-and-data.md"
@@ -74,6 +75,7 @@ nav:
     - "Query Bitcoin Order book from CoinMetrics API": "articles/Innovate/QueryBitcoinOrderbookfromCoinMetricsAPI.md"
     - "DeFi Token Initial Coin Offering": "articles/Innovate/DeFiTokenInitialCoinOffering.md"
     - "Recap of ETHconomics @ Devconnect 2022": "articles/Innovate/RecapofETHconomics@Devconnect2022.md"
+    - "Ethereum Trace Data in MEV Detection: Flashbots, EigenPhi, ZeroMEV, Dune, ChainsightAnalytics, MEV Blocker, Frontier Research, Hackless, Jito Labs, Etherscan"
 markdown_extensions:
   - admonition
   - attr_list
