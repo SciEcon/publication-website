@@ -21,6 +21,21 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 # Our Publication
 ---
 <div style="display: flex;" markdown>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UBObleVewlJc62tKcQWLAg.png" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Ethereum Trace Data in MEV Detection: Flashbots, EigenPhi, ZeroMEV, Dune, ChainsightAnalytics, MEV Blocker, Frontier Research, Hackless, JitoLabs, Etherscan
+
+**Internal Link**: [Ethereum Trace Data in MEV Detection: Flashbots, EigenPhi, ZeroMEV, Dune, ChainsightAnalytics, MEV Blocker, Frontier Research, Hackless, JitoLabs, Etherscan](/articles/Innovate/EthereumTraceDataInMEVDetection:FlashbotsEigenPhiZeroMEVDuneChainsightAnalyticsMEVBlockerFrontierResearchHacklessJitoLabsEtherscan.html)
+
+**Medium Link**: <https://medium.com/sciecon-innovate/ethereum-trace-data-in-mev-detection-660b2ea44b8f>
+</div>
+</div>
+
+
+---
+<div style="display: flex;" markdown>
 <img src="https://miro.medium.com/max/1400/0*jbzzeqeRLwyNOFiF" width="300" />
 <div style="width: 2%">
 </div>
