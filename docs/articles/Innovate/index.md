@@ -21,6 +21,20 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 # Our Publication
 ---
 <div style="display: flex;" markdown>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*aAeePzbqJI8ur7BsV--4dg.png" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: NFT Marketplace Data Analysis
+
+**Internal Link**: [NFT Marketplace Data Analysis](/articles/Innovate/NFTMarketplaceDataAnalysis.html)
+
+**Medium Link**: <https://medium.com/sciecon-innovate/nft-marketplace-data-analysis-c586ee5fe8ae>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
 <img src="https://miro.medium.com/max/1400/0*jbzzeqeRLwyNOFiF" width="300" />
 <div style="width: 2%">
 </div>
