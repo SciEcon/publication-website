@@ -21,6 +21,20 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 # Our Publication
 ---
 <div style="display: flex;" markdown>
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*lQRBd4BXI-KR_lPb" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Deep dive on NFT marketplaces
+
+**Internal Link**: [Deep dive on NFT marketplaces](/articles/Research/DeepdiveonNFTmarketplaces.html)
+
+**Medium Link**: <https://medium.com/sciecon-research/deep-dive-on-nft-marketplaces-37c43162ab64>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*osGLRsZNkAPHvTli" width="300" />
 <div style="width: 2%">
 </div>
