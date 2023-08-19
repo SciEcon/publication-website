@@ -4,6 +4,7 @@ site_description: "research, innovation, and leadership in light of eastern and 
 
 theme:
   palette:
+  palette:
     scheme: default
 
 
@@ -47,10 +48,11 @@ nav:
   - "On Ethereum: Yin and Yang": "articles/AMA/OnEthereum:YinandYang.md"
 - Research:
   - articles/Research/index.md
-  - "Exploring Centralized and Decentralized Cryptocurrency Exchanges": "articles/Research/ExploringCentralizedandDecentralizedCryptocurrencyExchanges.md"
+  - "Deep dive on NFT marketplaces": "articles/Research/DeepdiveonNFTmarketplaces.md"
   - "Analysis of the Feasibility of Leveraging Large Language Models for Enhanced Blockchain Governance": "articles/Research/AnalysisoftheFeasibilityofLeveragingLargeLanguageModelsforEnhancedBlockchainGovernance.md"
   - "Blockchain and the Metaverse": "articles/Research/Blockchain and the Metaverse.md"
   - "MEV: Blockchain's Silent Assassin": "articles/Research/MEVBlockchainsSilentAssassin.md"
+  - "Exploring Centralized and Decentralized Cryptocurrency Exchanges": "articles/Research/ExploringCentralizedandDecentralizedCryptocurrencyExchanges.md"
   - "A Blockchain-based Decentralized Cloud Storage with“Keeper-and-Distributor” Systems": "articles/Research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems.md"
   - "Supply Chain Finance Risk Identification and the Corrective Role of the Blockchain": "articles/Research/supply-chain-finance-risk-identification-and-the-corrective-role-of-the-blockchain.md"
   - "Financial service and investment in the NFT market Place": "articles/Research/FinancialserviceandinvestmentintheNFTmarketPlace.md"
@@ -72,6 +74,7 @@ nav:
   - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part1BusinessBriefings].md"
 - Innovate:
   - articles/Innovate/index.md
+  - "NFT Marketplace Data Analysis": "articles/Innovate/NFTMarketplaceDataAnalysis.md"
   - "Dynamics of Centralized and Decentralized Cryptocurrency Exchanges": "articles/Innovate/DynamicsofCentralizedandDecentralizedCryptocurrencyExchanges.md"
   - ? "Ethereum Trace Data in MEV Detection: Flashbots, EigenPhi, ZeroMEV, Dune, ChainsightAnalytics, MEV Blocker, Frontier Research, Hackless, Jito Labs, Etherscan"
     : "articles/Innovate/EthereumTraceDataInMEVDetection:FlashbotsEigenPhiZeroMEVDuneChainsightAnalyticsMEVBlockerFrontierResearchHacklessJitoLabsEtherscan.md"
@@ -101,6 +104,7 @@ copyright: Copyright &copy; 2021 - 2022 SciEcon CIC, Hosted on IPFS
 
 extra_css:
 - stylesheets/extra.css
+- stylesheets/extra.css
 
 
 # plugins:
@@ -108,3 +112,4 @@ extra_css:
 #     - redirects:
 #         redirect_maps:
 #             'index.md': 'articles/AMA/index.md'
+
