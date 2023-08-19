@@ -21,6 +21,20 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 # Our Publication
 ---
 <div style="display: flex;" markdown>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gTexZQgXGYDdlgM74DZeAw.jpeg" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Analysis of the Feasibility of Leveraging Large Language Models for Enhanced Blockchain Governance.
+
+**Internal Link**: [Exploring Centralized and Decentralized Cryptocurrency Exchanges](/articles/Research/AnalysisoftheFeasibilityofLeveragingLargeLanguageModelsforEnhancedBlockchainGovernance.html)
+
+**Medium Link**: <https://medium.com/sciecon-research/analysis-of-the-feasibility-of-leveraging-large-language-models-for-enhanced-blockchain-governance-8039ab95b291>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*osGLRsZNkAPHvTli" width="300" />
 <div style="width: 2%">
 </div>
