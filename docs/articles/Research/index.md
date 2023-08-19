@@ -19,6 +19,7 @@ SciEcon Research is an accelerator program for young scholars to conduct explora
 Event Series (To be launched): `Tutorials` and `Workshops` for Research Resources.
 
 # Our Publication
+
 ---
 <div style="display: flex;" markdown>
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*lQRBd4BXI-KR_lPb" width="300" />
@@ -72,6 +73,9 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 **Internal Link**: [Exploring Centralized and Decentralized Cryptocurrency Exchanges](/articles/Research/AnalysisoftheFeasibilityofLeveragingLargeLanguageModelsforEnhancedBlockchainGovernance.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/analysis-of-the-feasibility-of-leveraging-large-language-models-for-enhanced-blockchain-governance-8039ab95b291>
+
+</div>
+</div>
 
 ---
 <div style="display: flex;" markdown>

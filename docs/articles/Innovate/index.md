@@ -19,6 +19,7 @@ SciEcon Innovate explores the most cutting-edge technologies and their applicati
 Event Series (To be launched): `tutorials` and `workshops` for innovative technologies, `developer program incubator`, `hackthon incubator`
 
 # Our Publication
+
 ---
 <div style="display: flex;" markdown>
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cgCu3Ku3zA2vbCIah4QZ_Q.png" width="300" />
@@ -30,6 +31,9 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 **Internal Link**: [Dynamics of Centralized and Decentralized Cryptocurrency Exchanges](/articles/Innovate/dynamics-of-centralized-and-decentralized-cryptocurrency-exchanges.html)
 
 **Medium Link**: <https://medium.com/sciecon-innovate/dynamics-of-centralized-and-decentralized-cryptocurrency-exchanges-83f777023609>
+
+</div>
+</div>
 
 ---
 <div style="display: flex;" markdown>
