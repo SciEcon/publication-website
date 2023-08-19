@@ -3,99 +3,100 @@ site_description: "research, innovation, and leadership in light of eastern and 
 # repo_url: "https://github.com/SciEcon/publication-website/"
 
 theme:
-  palette: 
+  palette:
     scheme: default
-  
-  
+
+
   name: material
   custom_dir: overrides
   logo: assets/logo-dark-mode-v1.png
   favicon: assets/logo-light-mode-v1.png
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.indexes
-    - navigation.top
-    - toc.integrate
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.indexes
+  - navigation.top
+  - toc.integrate
 
 
 nav:
-  - Home: index.md
-  - AMA: 
-    - articles/AMA/index.md
-    - "How will DeFi Reshape the Future of Finance?": "articles/AMA/HowwillDeFiReshapetheFutureofFinance.md"
-    - "Blockchain, Law, and Economics": "articles/AMA/BlockchainLawandEconomics.md"
-    - "The Current and Future of Econometrics": "articles/AMA/TheCurrentandFutureofEconometrics.md"
-    - "Are Central Banks Digital Currencies (CBDCs) The Future of Money?": "articles/AMA/AreCentralBanksDigitalCurrenciesCBDCsTheFutureofMoney.md"
-    - "Development Status and Future Trends of Emerging NFT Market": "articles/AMA/DevelopmentStatusandFutureTrendsofEmergingNFTMarket.md"
-    - "A Glance into Liquity": "articles/AMA/AGlanceintoLiquity.md"
-    - "A Conversation on Cryptography, Trust Machine, and Cyber Planet Construction": "articles/AMA/AConversationonCryptographyTrustMachineandCyberPlanetConstruction.md"
-    - "DeFi: Reinventing Finance and Expanding the Possibilities": "articles/AMA/DeFi:ReinventingFinanceandExpandingthePossibilities.md"
-    - "On the Mechanics of Blockchain Security": "articles/AMA/OntheMechanicsofBlockchainSecurity.md"
-    - "Tokeneconomics: When Macro and Micro Economics Unite in Finance": "articles/AMA/Tokeneconomics:WhenMacroandMicroEconomicsUniteinFinance.md"
-    - "The Future of Mobility": "articles/AMA/TheFutureofMobility.md"
-    - "Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer": "articles/AMA/DecentralizedFinance:CryptocurrencyandBlockchainontheInternetComputer.md"
-    - "How to Realize Options Trading in Decentralized Finance": "articles/AMA/HowtoRealizeOptionsTradinginDecentralizedFinance.md"
-    - "WaterPark: A Decentralized Borrowing Protocol for the Internet Computer": "articles/AMA/WaterPark:ADecentralizedBorrowingProtocolfortheInternetComputer.md"
-    - "ICy: A Decentralized Lending Protocol on the Internet Computer": "articles/AMA/ICy:ADecentralizedLendingProtocolontheInternetComputer.md"
-    - "Towards Decentralized Protocols: Call for Collaborations": "articles/AMA/TowardsDecentralizedProtocols:CallforCollaborations.md"
-    - "Insights on consensus in the presence of synchrony": "articles/AMA/Insightsonconsensusinthepresenceofsynchrony.md"
-    - "The Future of Consensus: Algorithm on Blockchain": "articles/AMA/TheFutureofConsensus:AlgorithmonBlockchain.md"
-    - "Towards Incentivized Decentralization: The Future of Blockchain": "articles/AMA/TowardsIncentivizedDecentralization:TheFutureofBlockchain.md"
-    - "The Future of Cryptocurrency: Insights from Mr. Charles Du": "articles/AMA/TheFutureofCryptocurrency:InsightsfromMr.CharlesDu.md"
-    - "Prof. Yu Xiong Calls for the Internet Computer to Integrate the Spirit of Magna Carta": "articles/AMA/Prof.YuXiongCallsfortheInternetComputertoIntegratetheSpiritofMagnaCarta.md"
-    - "On Ethereum: Yin and Yang": "articles/AMA/OnEthereum:YinandYang.md"
-  - Research:
-    - articles/Research/index.md
-    - "Analysis of the Feasibility of Leveraging Large Language Models for Enhanced Blockchain Governance": "articles/Research/AnalysisoftheFeasibilityofLeveragingLargeLanguageModelsforEnhancedBlockchainGovernance.md"
-    - "Exploring Centralized and Decentralized Cryptocurrency Exchanges": "articles/Research/ExploringCentralizedandDecentralizedCryptocurrencyExchanges.md"
-    - "A Blockchain-based Decentralized Cloud Storage with“Keeper-and-Distributor” Systems": "articles/Research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems.md"
-    - "Supply Chain Finance Risk Identification and the Corrective Role of the Blockchain": "articles/Research/supply-chain-finance-risk-identification-and-the-corrective-role-of-the-blockchain.md"
-    - "Financial service and investment in the NFT market Place": "articles/Research/FinancialserviceandinvestmentintheNFTmarketPlace.md"
-    - "Explore the sea of NFT": "articles/Research/ExploretheseaofNFT.md"
-    - "A Glance into the Metaverse": "articles/Research/AGlanceintotheMetaverse.md"
-    - "NFT Marketplace: Introduction to NFT and NFT marketplace’s mechanism": "articles/Research/NFTMarketplace:IntroductiontoNFTandNFTmarketplace’smechanism.md"
-    - "Does DeFi Application Function Well in Terms of the Features of Immutability, Transparency, and Accessibility?": "articles/Research/DoesDeFiApplicationFunctionWellinTermsoftheFeaturesofImmutabilityTransparencyandAccessibility.md"
-    - "NFT Marketplace: How to Choose the Right NFT Marketplace for Artists and Collectors": "articles/Research/NFTMarketplace:HowtoChoosetheRightNFTMarketplaceforArtistsandCollectors.md"
-    - "Will Ethereum last long?": "articles/Research/WillEthereumlastlong.md"
-    - "The Application of Blockchain Technology: Environmental Sustainability, Government Management, and Ethical Considerations": "articles/Research/TheApplicationofBlockchainTechnology:EnvironmentalSustainabilityGovernmentManagementandEthicalConsiderations.md"
-    - "Blockchain Governance for a Sustainable Future": "articles/Research/BlockchainGovernanceforaSustainableFuture.md"
-    - "Tech Solutions for the Crypto Market": "articles/Research/TechSolutionsfortheCryptoMarket.md"
-    - "Indicators in the Crypto Market: the valuation of social sentiments": "articles/Research/IndicatorsintheCryptoMarket:thevaluationofsocialsentiments.md"
-    - "Algorithmic Trading in Crypto Market": "articles/Research/AlgorithmicTradinginCryptoMarket.md"
-    - "Cryptocurrency Exchanges: A Guide to Smart Transactions": "articles/Research/CryptocurrencyExchanges:AGuidetoSmartTransactions.md"
-    - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 3 The Token Economy]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part3TheTokenEconomy].md"
-    - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 2 The Business Model Analysis]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part2TheBusinessModelAnalysis].md"
-    - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part1BusinessBriefings].md"
-    - "Blockchain and the Metaverse": "https://medium.com/sciecon-research/blockchain-and-the-metaverse-2a4d11dc2d28"
-  - Innovate:
-    - articles/Innovate/index.md
-    - "How Large Language Models Enhancing Blockchain Governance": "articles/Innovate/HowLargeLanguageModelsEnhancingBlockchainGovernance.md"
-    - "How blockchain empowers market design: rules and data": "articles/Innovate/how-blockchain-empowers-market-design-rules-and-data.md"
-    - "Smart Contract security and vulnerability detection": "articles/Innovate/smart-contract-security-and-vulnerability-detection.md"
-    - "Decipher Developer Grants": "articles/Innovate/DecipherDeveloperGrants.md"
-    - "Query Bitcoin Order book from CoinMetrics API": "articles/Innovate/QueryBitcoinOrderbookfromCoinMetricsAPI.md"
-    - "DeFi Token Initial Coin Offering": "articles/Innovate/DeFiTokenInitialCoinOffering.md"
-    - "Recap of ETHconomics @ Devconnect 2022": "articles/Innovate/RecapofETHconomics@Devconnect2022.md"
-    - "NFT Market Data Visualization": "https://medium.com/sciecon-innovate/nft-market-data-visualization-ef0402a2b587"
+- Home: index.md
+- AMA:
+  - articles/AMA/index.md
+  - "How will DeFi Reshape the Future of Finance?": "articles/AMA/HowwillDeFiReshapetheFutureofFinance.md"
+  - "Blockchain, Law, and Economics": "articles/AMA/BlockchainLawandEconomics.md"
+  - "The Current and Future of Econometrics": "articles/AMA/TheCurrentandFutureofEconometrics.md"
+  - "Are Central Banks Digital Currencies (CBDCs) The Future of Money?": "articles/AMA/AreCentralBanksDigitalCurrenciesCBDCsTheFutureofMoney.md"
+  - "Development Status and Future Trends of Emerging NFT Market": "articles/AMA/DevelopmentStatusandFutureTrendsofEmergingNFTMarket.md"
+  - "A Glance into Liquity": "articles/AMA/AGlanceintoLiquity.md"
+  - "A Conversation on Cryptography, Trust Machine, and Cyber Planet Construction": "articles/AMA/AConversationonCryptographyTrustMachineandCyberPlanetConstruction.md"
+  - "DeFi: Reinventing Finance and Expanding the Possibilities": "articles/AMA/DeFi:ReinventingFinanceandExpandingthePossibilities.md"
+  - "On the Mechanics of Blockchain Security": "articles/AMA/OntheMechanicsofBlockchainSecurity.md"
+  - "Tokeneconomics: When Macro and Micro Economics Unite in Finance": "articles/AMA/Tokeneconomics:WhenMacroandMicroEconomicsUniteinFinance.md"
+  - "The Future of Mobility": "articles/AMA/TheFutureofMobility.md"
+  - "Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer": "articles/AMA/DecentralizedFinance:CryptocurrencyandBlockchainontheInternetComputer.md"
+  - "How to Realize Options Trading in Decentralized Finance": "articles/AMA/HowtoRealizeOptionsTradinginDecentralizedFinance.md"
+  - "WaterPark: A Decentralized Borrowing Protocol for the Internet Computer": "articles/AMA/WaterPark:ADecentralizedBorrowingProtocolfortheInternetComputer.md"
+  - "ICy: A Decentralized Lending Protocol on the Internet Computer": "articles/AMA/ICy:ADecentralizedLendingProtocolontheInternetComputer.md"
+  - "Towards Decentralized Protocols: Call for Collaborations": "articles/AMA/TowardsDecentralizedProtocols:CallforCollaborations.md"
+  - "Insights on consensus in the presence of synchrony": "articles/AMA/Insightsonconsensusinthepresenceofsynchrony.md"
+  - "The Future of Consensus: Algorithm on Blockchain": "articles/AMA/TheFutureofConsensus:AlgorithmonBlockchain.md"
+  - "Towards Incentivized Decentralization: The Future of Blockchain": "articles/AMA/TowardsIncentivizedDecentralization:TheFutureofBlockchain.md"
+  - "The Future of Cryptocurrency: Insights from Mr. Charles Du": "articles/AMA/TheFutureofCryptocurrency:InsightsfromMr.CharlesDu.md"
+  - "Prof. Yu Xiong Calls for the Internet Computer to Integrate the Spirit of Magna Carta": "articles/AMA/Prof.YuXiongCallsfortheInternetComputertoIntegratetheSpiritofMagnaCarta.md"
+  - "On Ethereum: Yin and Yang": "articles/AMA/OnEthereum:YinandYang.md"
+- Research:
+  - articles/Research/index.md
+  - "Analysis of the Feasibility of Leveraging Large Language Models for Enhanced Blockchain Governance": "articles/Research/AnalysisoftheFeasibilityofLeveragingLargeLanguageModelsforEnhancedBlockchainGovernance.md"
+  - "Exploring Centralized and Decentralized Cryptocurrency Exchanges": "articles/Research/ExploringCentralizedandDecentralizedCryptocurrencyExchanges.md"
+  - "A Blockchain-based Decentralized Cloud Storage with“Keeper-and-Distributor” Systems": "articles/Research/a-blockchain-based-decentralized-cloud-storage-with-keeper-and-distributor-systems.md"
+  - "Supply Chain Finance Risk Identification and the Corrective Role of the Blockchain": "articles/Research/supply-chain-finance-risk-identification-and-the-corrective-role-of-the-blockchain.md"
+  - "Financial service and investment in the NFT market Place": "articles/Research/FinancialserviceandinvestmentintheNFTmarketPlace.md"
+  - "Explore the sea of NFT": "articles/Research/ExploretheseaofNFT.md"
+  - "A Glance into the Metaverse": "articles/Research/AGlanceintotheMetaverse.md"
+  - "NFT Marketplace: Introduction to NFT and NFT marketplace’s mechanism": "articles/Research/NFTMarketplace:IntroductiontoNFTandNFTmarketplace’smechanism.md"
+  - "Does DeFi Application Function Well in Terms of the Features of Immutability, Transparency, and Accessibility?": "articles/Research/DoesDeFiApplicationFunctionWellinTermsoftheFeaturesofImmutabilityTransparencyandAccessibility.md"
+  - "NFT Marketplace: How to Choose the Right NFT Marketplace for Artists and Collectors": "articles/Research/NFTMarketplace:HowtoChoosetheRightNFTMarketplaceforArtistsandCollectors.md"
+  - "Will Ethereum last long?": "articles/Research/WillEthereumlastlong.md"
+  - "The Application of Blockchain Technology: Environmental Sustainability, Government Management, and Ethical Considerations": "articles/Research/TheApplicationofBlockchainTechnology:EnvironmentalSustainabilityGovernmentManagementandEthicalConsiderations.md"
+  - "Blockchain Governance for a Sustainable Future": "articles/Research/BlockchainGovernanceforaSustainableFuture.md"
+  - "Tech Solutions for the Crypto Market": "articles/Research/TechSolutionsfortheCryptoMarket.md"
+  - "Indicators in the Crypto Market: the valuation of social sentiments": "articles/Research/IndicatorsintheCryptoMarket:thevaluationofsocialsentiments.md"
+  - "Algorithmic Trading in Crypto Market": "articles/Research/AlgorithmicTradinginCryptoMarket.md"
+  - "Cryptocurrency Exchanges: A Guide to Smart Transactions": "articles/Research/CryptocurrencyExchanges:AGuidetoSmartTransactions.md"
+  - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 3 The Token Economy]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part3TheTokenEconomy].md"
+  - ? "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 2 The Business Model Analysis]"
+    : "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part2TheBusinessModelAnalysis].md"
+  - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part1BusinessBriefings].md"
+  - "Blockchain and the Metaverse": "https://medium.com/sciecon-research/blockchain-and-the-metaverse-2a4d11dc2d28"
+- Innovate:
+  - "NFT Market Data Visualization": "articles/Innovate/NFT Market Data Visualization.md"
+  - articles/Innovate/index.md
+  - "How Large Language Models Enhancing Blockchain Governance": "articles/Innovate/HowLargeLanguageModelsEnhancingBlockchainGovernance.md"
+  - "How blockchain empowers market design: rules and data": "articles/Innovate/how-blockchain-empowers-market-design-rules-and-data.md"
+  - "Smart Contract security and vulnerability detection": "articles/Innovate/smart-contract-security-and-vulnerability-detection.md"
+  - "Decipher Developer Grants": "articles/Innovate/DecipherDeveloperGrants.md"
+  - "Query Bitcoin Order book from CoinMetrics API": "articles/Innovate/QueryBitcoinOrderbookfromCoinMetricsAPI.md"
+  - "DeFi Token Initial Coin Offering": "articles/Innovate/DeFiTokenInitialCoinOffering.md"
+  - "Recap of ETHconomics @ Devconnect 2022": "articles/Innovate/RecapofETHconomics@Devconnect2022.md"
 markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
-  - pymdownx.superfences
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - tables
+- admonition
+- attr_list
+- md_in_html
+- pymdownx.superfences
+- pymdownx.critic
+- pymdownx.caret
+- pymdownx.keys
+- pymdownx.mark
+- pymdownx.tilde
+- pymdownx.tasklist:
+    custom_checkbox: true
+- tables
 
 copyright: Copyright &copy; 2021 - 2022 SciEcon CIC, Hosted on IPFS
 
 extra_css:
-  - stylesheets/extra.css
+- stylesheets/extra.css
 
 
 # plugins:

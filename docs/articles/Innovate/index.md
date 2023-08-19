@@ -21,6 +21,20 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 # Our Publication
 ---
 <div style="display: flex;" markdown>
+<img src="https://miro.medium.com/v2/resize:fit:1280/0*aJD90G2iVdWroHE8" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: NFT Market Data Visualization
+
+**Internal Link**: [NFT Market Data Visualization](/articles/Innovate/NFT Market Data Visualization.html)
+
+**Medium Link**: <https://medium.com/sciecon-innovate/nft-market-data-visualization-ef0402a2b587>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UiCVGomGgty0C1HM0FxZdg.png" width="300" />
 <div style="width: 2%">
 </div>
@@ -116,18 +130,5 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 **Internal Link**: [Recap of ETHconomics @ Devconnect 2022](/articles/Innovate/RecapofETHconomics@Devconnect2022.html)
 
 **Medium Link**: <https://medium.com/sciecon-innovate/recap-of-ethconomics-devconnect-2022-fb22bba084b>
-</div>
-</div>
----
-<div style="display: flex;" markdown>
-<img src="https://medium.com/sciecon-innovate/nft-market-data-visualization-ef0402a2b587" width="300" />
-<div style="width: 2%">
-</div>
-<div markdown style="width: 70%;">
-**Title**: NFT Market Data Visualization
-
-**Internal Link**: [Recap of ETHconomics @ Devconnect 2022](https://medium.com/sciecon-innovate/nft-market-data-visualization-ef0402a2b587)
-
-**Medium Link**: <https://medium.com/sciecon-innovate/nft-market-data-visualization-ef0402a2b587>
 </div>
 </div>
