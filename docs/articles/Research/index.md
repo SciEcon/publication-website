@@ -27,7 +27,7 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 <div markdown style="width: 70%;">
 **Title**: MEV: Blockchain’s Silent Assassin
 
-**Internal Link**: [MEV: Blockchain’s Silent Assassin](/articles/Research/MEV:Blockchain’sSilentAssassin.html)
+**Internal Link**: [MEV: Blockchain’s Silent Assassin](/articles/Research/MEVBlockchainsSilentAssassin.html)
 
 **Medium Link**: <https://medium.com/sciecon-research/mev-blockchains-silent-assassin-3dd015325bf4>
 </div>
