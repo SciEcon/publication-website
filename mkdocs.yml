@@ -67,6 +67,7 @@ nav:
     - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 3 The Token Economy]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part3TheTokenEconomy].md"
     - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 2 The Business Model Analysis]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part2TheBusinessModelAnalysis].md"
     - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part1BusinessBriefings].md"
+    - "Blockchain and the Metaverse": "https://medium.com/sciecon-research/blockchain-and-the-metaverse-2a4d11dc2d28"
   - Innovate:
     - articles/Innovate/index.md
     - "How Large Language Models Enhancing Blockchain Governance": "articles/Innovate/HowLargeLanguageModelsEnhancingBlockchainGovernance.md"
@@ -76,6 +77,7 @@ nav:
     - "Query Bitcoin Order book from CoinMetrics API": "articles/Innovate/QueryBitcoinOrderbookfromCoinMetricsAPI.md"
     - "DeFi Token Initial Coin Offering": "articles/Innovate/DeFiTokenInitialCoinOffering.md"
     - "Recap of ETHconomics @ Devconnect 2022": "articles/Innovate/RecapofETHconomics@Devconnect2022.md"
+    - "NFT Market Data Visualization": "https://medium.com/sciecon-innovate/nft-market-data-visualization-ef0402a2b587"
 markdown_extensions:
   - admonition
   - attr_list

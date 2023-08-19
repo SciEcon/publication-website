@@ -299,3 +299,16 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 **Medium Link**: <https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-d89ca0251096>
 </div>
 </div>
+---
+<div style="display: flex;" markdown>
+<img src="https://medium.com/sciecon-research/blockchain-and-the-metaverse-2a4d11dc2d28" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Blockchain and the Metaverse
+
+**Internal Link**: [Recap of ETHconomics @ Devconnect 2022](https://medium.com/sciecon-research/blockchain-and-the-metaverse-2a4d11dc2d28)
+
+**Medium Link**: <https://medium.com/sciecon-research/blockchain-and-the-metaverse-2a4d11dc2d28>
+</div>
+</div>
