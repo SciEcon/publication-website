@@ -72,7 +72,7 @@ nav:
   - "How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization? [Part 1 Business Briefings]": "articles/Research/HowBlockchainEmpowersSocialMedia:onthemechanicsoftokeneconomyanddecentralization[Part1BusinessBriefings].md"
 - Innovate:
   - articles/Innovate/index.md
-  - "Dynamics of Centralized and Decentralized Cryptocurrency Exchanges": "articles/Innovate/dynamics-of-centralized-and-decentralized-cryptocurrency-exchanges.md"
+  - "Dynamics of Centralized and Decentralized Cryptocurrency Exchanges": "articles/Innovate/DynamicsofCentralizedandDecentralizedCryptocurrencyExchanges.md"
   - ? "Ethereum Trace Data in MEV Detection: Flashbots, EigenPhi, ZeroMEV, Dune, ChainsightAnalytics, MEV Blocker, Frontier Research, Hackless, Jito Labs, Etherscan"
     : "articles/Innovate/EthereumTraceDataInMEVDetection:FlashbotsEigenPhiZeroMEVDuneChainsightAnalyticsMEVBlockerFrontierResearchHacklessJitoLabsEtherscan.md"
   - "NFT Market Data Visualization": "articles/Innovate/NFT Market Data Visualization.md"

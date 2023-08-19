@@ -34,8 +34,6 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 </div>
 
 ---
-
----
 <div style="display: flex;" markdown>
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UiCVGomGgty0C1HM0FxZdg.png" width="300" />
 <div style="width: 2%">
@@ -46,6 +44,12 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 **Internal Link**: [How Large Language Models Enhancing Blockchain Governance](/articles/Innovate/HowLargeLanguageModelsEnhancingBlockchainGovernance.html)
 
 **Medium Link**: <https://medium.com/sciecon-innovate/how-large-language-models-enhancing-blockchain-governance-4dcd218c437c>
+</div>
+</div>
+
+---
+
+<div style="display: flex;" markdown>
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UBObleVewlJc62tKcQWLAg.png" width="300" />
 <div style="width: 2%">
 </div>
