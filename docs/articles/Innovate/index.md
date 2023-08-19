@@ -21,6 +21,29 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 # Our Publication
 ---
 <div style="display: flex;" markdown>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UiCVGomGgty0C1HM0FxZdg.png" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: How Large Language Models Enhancing Blockchain Governance
+
+**Internal Link**: [How Large Language Models Enhancing Blockchain Governance](/articles/Innovate/HowLargeLanguageModelsEnhancingBlockchainGovernance.html)
+
+**Medium Link**: <https://medium.com/sciecon-innovate/how-large-language-models-enhancing-blockchain-governance-4dcd218c437c>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UBObleVewlJc62tKcQWLAg.png" width="300" />
+<div style="width: 2%">
+</div>
+<div markdown style="width: 70%;">
+**Title**: Ethereum Trace Data in MEV Detection: Flashbots, EigenPhi, ZeroMEV, Dune, ChainsightAnalytics, MEV Blocker, Frontier Research, Hackless, JitoLabs, Etherscan
+
+**Internal Link**: [Ethereum Trace Data in MEV Detection: Flashbots, EigenPhi, ZeroMEV, Dune, ChainsightAnalytics, MEV Blocker, Frontier Research, Hackless, JitoLabs, Etherscan](/articles/Innovate/EthereumTraceDataInMEVDetection:FlashbotsEigenPhiZeroMEVDuneChainsightAnalyticsMEVBlockerFrontierResearchHacklessJitoLabsEtherscan.html)
+
+**Medium Link**: <https://medium.com/sciecon-innovate/ethereum-trace-data-in-mev-detection-660b2ea44b8f>
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
 <img src="https://miro.medium.com/v2/resize:fit:1280/0*aJD90G2iVdWroHE8" width="300" />
 <div style="width: 2%">
 </div>
@@ -32,21 +55,6 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 **Medium Link**: <https://medium.com/sciecon-innovate/nft-market-data-visualization-ef0402a2b587>
 </div>
 </div>
-
----
-<div style="display: flex;" markdown>
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UiCVGomGgty0C1HM0FxZdg.png" width="300" />
-<div style="width: 2%">
-</div>
-<div markdown style="width: 70%;">
-**Title**: How Large Language Models Enhancing Blockchain Governance
-
-**Internal Link**: [How Large Language Models Enhancing Blockchain Governance](/articles/Innovate/HowLargeLanguageModelsEnhancingBlockchainGovernance.html)
-
-**Medium Link**: <https://medium.com/sciecon-innovate/how-large-language-models-enhancing-blockchain-governance-4dcd218c437c>
-</div>
-</div>
-
 
 ---
 <div style="display: flex;" markdown>
